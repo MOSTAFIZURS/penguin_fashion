@@ -1,0 +1,63 @@
+.body-background{
+    color: #FFFBF0
+}
+.nav-button{
+    margin:0px 0px 0px 600px;
+    font-weight: 700;
+}
+h1{
+    font-size: 60px;
+    font-weight: 700;
+    color: #363958;
+}
+h2{
+    font-size: 40px;
+    font-weight: 700;
+    color: orange
+}
+h3{
+    font-size: 30px;
+    font-weight: 700;
+    color: #363958;
+}
+h4{
+    font-size: 25px;
+    font-weight: 700;
+    color: #363958;
+}
+p{
+    color:#3E3E3E;
+    font-size: 16px;
+    font-weight: 500;
+}
+.orange-highlight{
+    color: orange;
+}
+.fashion-card{
+    border: 0;
+    border-radius: 1em;
+}
+.image-card-background{
+    height: 300px;
+    margin: 10px;
+    border-radius: 1em;
+    background-color:#F1F1F1
+}
+.heder-highlight{
+    color: #363958;
+}
+.border-radius{
+    border-radius: 1em;
+}
+footer{
+    padding: 2% 15%;
+    background: #056676;
+    border-radius: 1em;
+}
+footer a{
+    color: white;
+    margin: 0 10px;
+}
+footer a:hover{
+    color: orange;
+}
